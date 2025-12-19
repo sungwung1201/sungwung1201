@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Graph
+name: Generate Contribution Graph (Pacman Style)
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: sungwung1201
           outputs: |
-            output/pacman.svg
+            output/pacman.svg?palette=github-dark
             output/pacman-dark.svg?palette=github-dark
 
       - uses: crazy-max/ghaction-github-pages@v4
