@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:222222,100:ffffff&text=Seongung%20Yoon&fontColor=000000&fontSize=40)
+
 # 윤성웅 (SeongWoong Yoon)
 
 로봇 소프트웨어 / 자율주행 개발자  
