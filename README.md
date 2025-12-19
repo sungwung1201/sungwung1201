@@ -57,9 +57,10 @@ ROS2 기반 경로 계획, 센서 처리, 주행 제어를 중심으로 프로�
 ## 🕹️ Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman-contribution-graph-dark.svg">
+    srcset="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman-dark.svg">
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman-contribution-graph.svg">
+    srcset="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman.svg">
   <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman-contribution-graph.svg">
+    src="https://raw.githubusercontent.com/sungwung1201/sungwung1201/output/pacman.svg">
 </picture>
+
