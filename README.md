@@ -1,4 +1,4 @@
-<h1>Hey 👋 What's Up?</h1>
+<h1>Hi 👋 I'm Yoon</h1>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 👋 Self Introduction
+## 🙂 Self Introduction
 개발자 **윤성웅**입니다.  
 로봇 소프트웨어 및 자율주행 알고리즘 개발에 관심이 있습니다.  
 ROS2 기반 경로 계획, 센서 처리, 주행 제어를 중심으로 프로젝트를 진행했습니다.
