@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:222222,100:ffffff&text=Seongung%20Yoon&fontColor=000000&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:222222,100:ffffff&text=SeongWoong%20Yoon&fontColor=000000&fontSize=40)
 
-# 윤성웅 (SeongWoong Yoon)
+# 윤성웅
 
 로봇 소프트웨어 / 자율주행 개발자  
 ROS2 Humble · Python · C/C++
