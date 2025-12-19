@@ -9,16 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate pacman graph
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: sungwung1201
           outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg
+            output/pacman.svg
+            output/pacman-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: output
