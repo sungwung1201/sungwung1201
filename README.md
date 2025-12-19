@@ -36,6 +36,33 @@ ROS2 기반 경로 계획, 센서 처리, 주행 제어를 중심으로 프로�
 
 <br>
 
+
+
+---
+
+## 🧠 Algorithms
+
+### Path Planning
+- RRT
+- RRT*
+- PRM (theory-level understanding)
+- Waypoint-based navigation
+
+### Path Tracking / Control
+- Pure Pursuit
+- Lookahead Distance based Steering Control
+- PID Control
+
+### Reactive Driving
+- Wall Following
+- Follow Gap Algorithm
+
+### Perception / Sensor Processing
+- LiDAR preprocessing
+- Sliding Window Average Filter
+- Angle-based LiDAR slicing
+- Obstacle distance based decision logic
+
 ---
 
 ## 🧑‍💻 Contact
