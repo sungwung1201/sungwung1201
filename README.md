@@ -6,7 +6,7 @@
 
 https://youtu.be/B1f5QXJaeYY
 
--케이스 그림 자동화 (순서대로 본영상, 예외처리 1, 2)
+-ROBOCASE (순서대로 본영상, 예외처리 1, 2)
 
 https://youtu.be/e0xhKZhm7x8
 
@@ -14,7 +14,7 @@ https://youtu.be/_ZfkuRjPv9M
 
 https://youtu.be/YRqY2fV_xWM
 
--나사 자동화 검사 (본영상, VR연동)
+-JOINGO (본영상, VR연동)
 
 https://youtu.be/QxhEGyachm4
 
