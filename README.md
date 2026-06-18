@@ -14,7 +14,7 @@ https://youtu.be/_ZfkuRjPv9M
 
 https://youtu.be/YRqY2fV_xWM
 
--나사 자동화 검사
+-나사 자동화 검사 (본영상, VR연동)
 
 https://youtu.be/QxhEGyachm4
 
