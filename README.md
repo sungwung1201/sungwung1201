@@ -3,13 +3,16 @@
 # 프로젝트 관련 영상 링크 모음
 -박물관 순찰로봇
 https://youtu.be/B1f5QXJaeYY
+
 -케이스 그림 자동화 (순서대로 본영상, 예외처리 1, 2)
 https://youtu.be/e0xhKZhm7x8
 https://youtu.be/_ZfkuRjPv9M
 https://youtu.be/YRqY2fV_xWM
+
 -나사 자동화 검사
 https://youtu.be/QxhEGyachm4
 https://youtu.be/_gkFNbBG86g
+
 -SNFC
 https://youtu.be/KGfa1HYEBKE
 # 🤖 About Me
